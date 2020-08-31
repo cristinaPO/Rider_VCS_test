@@ -6,7 +6,7 @@ namespace VCSBasics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello There!");
+            Console.WriteLine("Hello All!");
         }
     }
 }
